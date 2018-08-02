@@ -14,8 +14,9 @@
     </parent>
     <profiles>
         <profile>
-            <properties>
+            
             <id>sonar</id>
+            <properties>
             <sonar.host.url>http://13.58.12.144:9000</sonar.host.url>
             </properties>
         </profile>
